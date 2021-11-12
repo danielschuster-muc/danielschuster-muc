@@ -23,7 +23,7 @@
 
 <br>
 <h2>LinkedIn</h2>
-<a href="https://www.linkedin.com/in/danielschuster-muc/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/danielschuster-muc/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="32px"></a>
 
 <details>
     <summary>:zap: Github Stats</summary>
