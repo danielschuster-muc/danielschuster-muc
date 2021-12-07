@@ -1,5 +1,5 @@
 <h1>Hey there 👋, I am Daniel!</h1>
-<h3>Junior Software Developer</h3>
+<h3>Junior Web Developer</h3>
 
 🔭 I’m currently working on [Flazy](www.flazy.app)
 
