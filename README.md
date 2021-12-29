@@ -1,7 +1,7 @@
 <h1>Hey there 👋, I am Daniel!</h1>
 <h3>Junior Web Developer</h3>
 
-🔭 I’m currently working on [Flazy](www.flazy.app)
+🔭 I’m currently working on [Flazy](https://www.flazy.app)
 
 💬 Ask me about **Ruby (on Rails), HTML, CSS, JavaScript & SQL**
 
