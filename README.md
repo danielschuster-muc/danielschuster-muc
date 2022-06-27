@@ -62,6 +62,7 @@
   </a> 
 </p>
 
+[![Daniel Schuster's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielschuster-muc)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 danielschuster-muc/danielschuster-muc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
