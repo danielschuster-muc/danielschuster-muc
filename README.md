@@ -1,7 +1,7 @@
 <h1>Hey there 👋, I am Daniel!</h1>
 <h2>Junior Web Developer</h2>
 
-🔭 I am currently working on [Flazy](https://www.flazy.app), [My Personal Web Page](https://danielschuster.me/) and some other WIP projects.
+🔭 I am currently working on [Flazy](https://www.flazy.app), [My Personal Web Page](https://danielschuster.me/) and some other projects.
 
 💬 Ask me about **Ruby on Rails, React, Next.js, HTML, CSS, JavaScript & SQL**
 
