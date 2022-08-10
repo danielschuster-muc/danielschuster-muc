@@ -1,4 +1,6 @@
 <h1>Hey there 👋, I am Daniel!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielschuster-mucl&label=Profile%20views&style=for-the-badge" alt="Profile Views of Daniel Schuster" />
+<image src="https://img.shields.io/github/followers/danielschuster-muc?style=for-the-badge" alt="Followers Count" 7></p>
 <h2>Junior Web Developer</h2>
 
 🔭 I am currently working on [Flazy](https://www.flazy.app), [My Personal Web Page](https://danielschuster.me/) and some other projects.
@@ -7,7 +9,8 @@
 
 <h2>Connect with me</h2>
 <p>
-<a href="https://linkedin.com/in/danielschuster-muc" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="danielschuster-muc" height="48" width="48" /></a>
+<a href="https://linkedin.com/in/danielschuster-muc" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="danielschuster-muc" height="48" width="48" /></a>
+<a href="https://github.com/danielschuster-muc" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="danielschuster-muc" height="48" width="48" /></a>
 </p>
 
 <h2>Skills and Technologies</h2>
@@ -60,7 +63,11 @@
   </a>
 </p>
 
-[![Daniel Schuster's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielschuster-muc)](https://github.com/anuraghazra/github-readme-stats)
+<h2>Stats</h2>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=danielschuster-muc&show_icons=true&theme=algolia" alt="Readme Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielschuster-muc&show_icons=true&theme=algolia" alt="Streak Stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielschuster-muc&show_icons=true&theme=algolia" alt="Top Languages" /></p>
 
 <!---
 danielschuster-muc/danielschuster-muc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
