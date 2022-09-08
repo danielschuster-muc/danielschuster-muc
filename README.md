@@ -63,7 +63,7 @@
   </a>
 </p>
 
-<h2>Stats</h2>
+<h2>Statistics</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=danielschuster-muc&show_icons=true&theme=algolia" alt="Readme Stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielschuster-muc&show_icons=true&theme=algolia" alt="Streak Stats" /></p>
