@@ -3,7 +3,7 @@
 <image src="https://img.shields.io/github/followers/danielschuster-muc?style=for-the-badge" alt="Followers Count" 7></p>
 <h2>Junior Web Developer</h2>
 
-🔭 I am currently working on [Potter DB](https://potterdb.com) [My Personal Web Page](https://danielschuster.me/) and some other projects.
+🔭 I am currently working on [Potter DB](https://potterdb.com), [My Personal Web Page](https://danielschuster.me/) and some other projects.
 
 💬 Ask me about **Ruby on Rails, React, Next.js, HTML, CSS, JavaScript & SQL**
 
