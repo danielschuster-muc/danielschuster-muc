@@ -67,7 +67,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=danielschuster-muc&show_icons=true&theme=algolia" alt="Readme Stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielschuster-muc&show_icons=true&theme=algolia" alt="Streak Stats" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielschuster-muc&show_icons=true&theme=algolia" alt="Top Languages" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielschuster-muc&show_icons=true&theme=algolia&layout=compact" alt="Top Languages" /></p>
 
 <!---
 danielschuster-muc/danielschuster-muc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
