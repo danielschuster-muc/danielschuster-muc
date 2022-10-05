@@ -1,11 +1,11 @@
 <h1>Hey there 👋, I am Daniel!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielschuster-mucl&label=Profile%20views&style=for-the-badge" alt="Profile Views of Daniel Schuster" />
 <image src="https://img.shields.io/github/followers/danielschuster-muc?style=for-the-badge" alt="Followers Count" 7></p>
-<h2>Junior Web Developer</h2>
 
-🔭 I am currently working on [Potter DB](https://potterdb.com), [My Personal Web Page](https://danielschuster.me/) and some other projects.
+<h2>Projects</h2>
 
-💬 Ask me about **Ruby on Rails, React, Next.js, HTML, CSS, JavaScript & SQL**
+- [Potter DB](https://potterdb.com) - An API with data from the Harry Potter Universe - [GitHub Repository](https://github.com/danielschuster-muc/potter-db)
+- [danielschuster.me](https://danielschuster.me) - My Personal Website - [GitHub Repository](https://github.com/danielschuster-muc/personal-website)
 
 <h2>Connect with me</h2>
 <p>
