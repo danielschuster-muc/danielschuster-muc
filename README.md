@@ -5,8 +5,8 @@
 <h2>Projects</h2>
 
 - [Potter DB](https://potterdb.com) - An API with data from the Harry Potter Universe - [GitHub Repository](https://github.com/danielschuster-muc/potter-db)
-- [danielschuster.me](https://danielschuster.me) - My Personal Website - [GitHub Repository](https://github.com/danielschuster-muc/personal-website)
-- [stackoverflown.com](https://stackoverflown.com) - Jokes about misspelling Stack Overflown - [GitHub Repository](https://github.com/danielschuster-muc/stackoverflown)
+- [danielschuster.me](https://danielschuster.me) - Portfolio about me, my work and tools - [GitHub Repository](https://github.com/danielschuster-muc/portfolio)
+- [stackoverflown.com](https://stackoverflown.com) - Random jokes when misspelling Stack Overflow - [GitHub Repository](https://github.com/danielschuster-muc/stackoverflown)
 
 
 <h2>Connect with me</h2>
