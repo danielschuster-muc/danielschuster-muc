@@ -1,10 +1,9 @@
-![Profile Views](https://komarev.com/ghpvc/?username=danielschuster-mucl&label=Profile%20views&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=danielschuster-muc&label=Profile%20Views&style=for-the-badge)
 ![Followers Count](https://img.shields.io/github/followers/danielschuster-muc?style=for-the-badge)
 
 # Hey there 👋, I am Daniel!
 
 ## 💼 Work
-
 - [potterdb.com](https://potterdb.com) - An API with data from the Harry Potter Universe
 - [danielschuster.me](https://danielschuster.me) - Portfolio about me, my work and tools
 - [stackoverflown.com](https://stackoverflown.com) - Random jokes when misspelling Stack Overflow
@@ -28,10 +27,9 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="48" height="48"/>](https://mui.com/)
 
 ## 🔗 Links
-
 [![portfolio](https://img.shields.io/badge/my_portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danielschuster.me/)
 [![github](https://img.shields.io/badge/gitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielschuster-muc)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielschuster-muc)
+[![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielschuster-muc)
 
 ## 📈 Statistics
 ![Readme Stats](https://github-readme-stats.vercel.app/api?username=danielschuster-muc&show_icons=true&theme=algolia)
