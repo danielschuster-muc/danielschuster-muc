@@ -31,10 +31,16 @@
 [![github](https://img.shields.io/badge/gitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielschuster-muc)
 [![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielschuster-muc)
 
-## 📈 Statistics
-![Readme Stats](https://github-readme-stats.vercel.app/api?username=danielschuster-muc&show_icons=true&theme=algolia)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=danielschuster-muc&show_icons=true&theme=algolia)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=danielschuster-muc&show_icons=true&theme=algolia&layout=compact)
+<details>
+  <summary>
+
+  ## 📈 Statistics
+  </summary>
+
+  ![Readme Stats](https://github-readme-stats.vercel.app/api?username=danielschuster-muc&show_icons=true&theme=algolia)
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=danielschuster-muc&show_icons=true&theme=algolia)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=danielschuster-muc&show_icons=true&theme=algolia&layout=compact)
+</details>
 
 <!---
 danielschuster-muc/danielschuster-muc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
