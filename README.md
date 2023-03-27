@@ -1,6 +1,7 @@
+<!-- 
 ![Profile Views](https://komarev.com/ghpvc/?username=danielschuster-muc&label=Profile%20Views&style=for-the-badge)
 ![Followers Count](https://img.shields.io/github/followers/danielschuster-muc?style=for-the-badge)
-
+ -->
 # Hey there 👋, I am Daniel!
 
 ## 💼 Work
