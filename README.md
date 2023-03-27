@@ -33,7 +33,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielschuster-muc)
 
 <details>
-  <summary><h2>📈 Statistics</h2></summary>
+  <summary>📈 Statistics</summary>
   <img alt="Readme Stats" src="https://github-readme-stats.vercel.app/api?username=danielschuster-muc&show_icons=true&theme=algolia"/>
   <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=danielschuster-muc&show_icons=true&theme=algolia"/>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielschuster-muc&show_icons=true&theme=algolia&layout=compact"/>
