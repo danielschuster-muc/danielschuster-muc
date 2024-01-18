@@ -8,7 +8,7 @@
 - [Potter DB](https://github.com/danielschuster-muc/potter-db) - A Harry Potter database for all your wizarding needs
 - [Portfolio](https://github.com/danielschuster-muc/portfolio) - My Portfolio
 - [Stack Overflow*n*](https://github.com/danielschuster-muc/stackoverflown) - Random jokes when misspelling Stack Overflow
-- [Top Secret]() - My next project 🤔
+- [Scrabby](https://github.com/danielschuster-muc/scrabby) - A data scapper for the Harry Potter Wiki
 
 ## ⌨️ Skills and Technologies 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/>](https://www.javascript.com/)
