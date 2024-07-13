@@ -2,43 +2,26 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=danielschuster-muc&label=Profile%20Views&style=for-the-badge)
 ![Followers Count](https://img.shields.io/github/followers/danielschuster-muc?style=for-the-badge)
  -->
-# Hey there 👋, I am Daniel!
+# 👋 Hey there, I am Daniel!
 
-## 💼 Work
-- [Potter DB](https://github.com/danielschuster-muc/potter-db) - Harry Potter database for all your wizarding needs
-- [Portfolio](https://github.com/danielschuster-muc/portfolio) - Personal portfolio showcasing my projects and preferred technologies
-- [Stack Overflow*n*](https://github.com/danielschuster-muc/stackoverflown) - Random jokes when misspelling Stack Overflow
-- [Scrabby](https://github.com/danielschuster-muc/scrabby) - Data scraper for the Harry Potter Wiki
+## 💼 Projects on GitHub
+- [Potter DB](https://github.com/danielschuster-muc/potter-db) - Harry Potter database for all your wizarding needs.
+- [Portfolio](https://github.com/danielschuster-muc/portfolio) - Personal portfolio showcasing my projects and preferred technologies.
+- [Stack Overflow*n*](https://github.com/danielschuster-muc/stackoverflown) - Random jokes when misspelling Stack Overflow.
+- [Scrabby](https://github.com/danielschuster-muc/scrabby) - Data scraper for the Harry Potter Wiki.
 
-## ⌨️ Skills and Technologies 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/>](https://www.javascript.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="48" height="48"/>](https://www.ruby-lang.org/en/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/>](https://www.java.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="48" height="48"/>](https://rubyonrails.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="48" height="48"/>](https://reactjs.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="48" height="48"/>](https://nextjs.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="48" height="48"/>](https://www.typescriptlang.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="48" height="48"/>](https://tailwindcss.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="48" height="48"/>](https://svelte.dev/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="48" height="48"/>](https://vuejs.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="48" height="48"/>](https://www.postgresql.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="48" height="48"/>](https://www.w3.org/html/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="48" height="48"/>](https://www.w3.org/Style/CSS/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="48" height="48"/>](https://sass-lang.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="48" height="48"/>](https://getbootstrap.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="48" height="48"/>](https://mui.com/)
+## 📈 Statistics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=danielschuster-muc&show_icons=true&theme=algolia&layout=compact)
+
+![Readme Stats](https://github-readme-stats.vercel.app/api?username=danielschuster-muc&show_icons=true&theme=algolia)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=danielschuster-muc&show_icons=true&theme=algolia)
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danischu.com)
-[![github](https://img.shields.io/badge/gitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielschuster-muc)
+[![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)](https://danischu.com)
 [![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielschuster-muc)
-
-<details>
- <summary>📈 Statistics</summary>
-  <img alt="Readme Stats" src="https://github-readme-stats.vercel.app/api?username=danielschuster-muc&show_icons=true&theme=algolia"/>
-  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=danielschuster-muc&show_icons=true&theme=algolia"/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielschuster-muc&show_icons=true&theme=algolia&layout=compact"/>
-</details>
+[![github](https://img.shields.io/badge/gitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielschuster-muc)
 
 <!---
 danielschuster-muc/danielschuster-muc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
