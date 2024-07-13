@@ -5,10 +5,10 @@
 # Hey there 👋, I am Daniel!
 
 ## 💼 Work
-- [Potter DB](https://github.com/danielschuster-muc/potter-db) - A Harry Potter database for all your wizarding needs
-- [Portfolio](https://github.com/danielschuster-muc/portfolio) - My Portfolio
+- [Potter DB](https://github.com/danielschuster-muc/potter-db) - Harry Potter database for all your wizarding needs
+- [Portfolio](https://github.com/danielschuster-muc/portfolio) - Personal portfolio showcasing my projects and preferred technologies
 - [Stack Overflow*n*](https://github.com/danielschuster-muc/stackoverflown) - Random jokes when misspelling Stack Overflow
-- [Scrabby](https://github.com/danielschuster-muc/scrabby) - A data scraper for the Harry Potter Wiki
+- [Scrabby](https://github.com/danielschuster-muc/scrabby) - Data scraper for the Harry Potter Wiki
 
 ## ⌨️ Skills and Technologies 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/>](https://www.javascript.com/)
