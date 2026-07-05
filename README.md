@@ -12,9 +12,9 @@
 
 ## 📈 Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=danielschuster-muc&show_icons=true&theme=algolia&layout=compact)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=danielschuster-muc&show_icons=true&theme=algolia&layout=compact)
 
-![Readme Stats](https://github-readme-stats.vercel.app/api?username=danielschuster-muc&show_icons=true&theme=algolia)
+![Readme Stats](https://github-stats-extended.vercel.app/api?username=danielschuster-muc&show_icons=true&theme=algolia)
 
 <!--
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=danielschuster-muc&show_icons=true&theme=algolia)
